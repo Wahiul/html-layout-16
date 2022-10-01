@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #100F0F;
+}
+header{
+    overflow: hidden;
+}
+.header_bar{
+    color: bisque;
+    text-align: center;
+    width: 100%;
+    margin-top: 50px;
+}
+.one{
+    overflow: hidden;
+    margin-top: 30px;
+}
+.one1{
+    color: bisque;
+    float: left;
+    background-color: #2C3333;
+    width: 13%;
+    text-align: center;
+    height: 140px;
+    margin-left: 133px;
+}
+.one2{
+    color: bisque;
+    float: left;
+    background-color: #2C3333;
+    width: 13%;
+    text-align: center;
+    height: 140px;
+    margin-left: 100px;
+}
+.one3{
+    color: bisque;
+    float: left;
+    background-color: #2C3333;
+    width: 13%;
+    text-align: center;
+    height: 140px;
+    margin-left: 100px;
+}
+.one4{
+    color: bisque;
+    float: left;
+    background-color: #2C3333;
+    width: 13%;
+    text-align: center;
+    height: 140px;
+    margin-left: 100px;
+}
+.two{
+    overflow: hidden;
+    margin-top: 30px;
+}
+.two1{
+    color: bisque;
+    float: left;
+    background-color: #2C3333;
+    width: 20%;
+    text-align: center;
+    height: 140px;
+    margin-left: 300px
+}
+.two2{
+    color: bisque;
+    float: left;
+    background-color: #2C3333;
+    width: 20%;
+    text-align: center;
+    height: 140px;
+    margin-left: 73px
+}
+.two3{
+    color: bisque;
+    float: left;
+    background-color: #2C3333;
+    width: 20%;
+    text-align: center;
+    height: 140px;
+    margin-left: 73px
+}
+.p_line{
+    overflow: hidden;
+}
+.paragraph{
+    margin-top: 30px;
+    color: #9C2C77;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.img{
+    overflow: hidden;
+}
+.img_0ne{
+   margin-left: 450px;
+   margin-top: 50px;
+   float: left;
+}
+.para{
+    float: right;
+    color: #B1B2FF;
+    width: 40%;
+    margin-top: 80px;
+    margin-right: 400px;
+}
+.img_two{
+    overflow: hidden;
+}
+.img_2{
+    margin-left: 450px;
+    margin-top: 50px;
+    float: left;
+}
+.para_2{
+    float: right;
+    color: #B1B2FF;
+    width: 40%;
+    margin-top: 80px;
+    margin-right: 400px;
+}
+footer{
+    color: bisque;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+    background-color: #182747;
+    width: 90%;
+    margin-left: 92px;
+    height: 60px;
+    font-size: 12px;
+}
